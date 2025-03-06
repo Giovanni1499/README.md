@@ -6,4 +6,4 @@
 - 💻 I'm working as a **Software Developer** at Eyepro System S.r.l
 - 📫 Contact(s):
   * giovanni.ambrosi14@gmail.com
-  * Linkedin[www.linkedin.com/in/giovanni-ambrosi-b3848125b](LinkedinProfile)
+  * [Linkedin](www.linkedin.com/in/giovanni-ambrosi-b3848125b)
